@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Elect Your Adventure</title>
+  
+  <subtitle>Stories Written by Popular Vote</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://JonHolt.github.io/"/>
+  <updated>2018-05-30T00:29:05.230Z</updated>
+  <id>https://JonHolt.github.io/</id>
+  
+  <author>
+    <name>Jonathan Holt</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Partial Success</title>
+    <link href="https://JonHolt.github.io/2018/05/29/Partial-Success/"/>
+    <id>https://JonHolt.github.io/2018/05/29/Partial-Success/</id>
+    <published>2018-05-29T23:29:01.000Z</published>
+    <updated>2018-05-30T00:29:05.230Z</updated>
+    
+    <content type="html"><![CDATA[<p>A heavy silence fell over the mission control center for approximately 1.3 seconds between the time Captain Meyer’s transponder signal disappeared from the main display, up to the collective sigh of relief when it appeared again at the exact coordinates specified. A cheer went up among the engineers monitoring the telemetry data.</p><p>“Alright, alright! Quiet down! There will be plenty of time to celebrate later.” That was Remi Ashton, the ground commander for this test flight. “Thomas, ask her for a status report.”</p><p>“Captain Meyer, we’re reading that you’ve arrived at precisely the correct coordinates. How was the trip?”</p><p>An excited hubbub persisted in the room, despite the order to quiet down. A few engineers around the edges of the room were still chatting happily about the ramifications of human faster than light travel. Discussions ranged from excitement about the future of exploration in and around the solar system, to jealousy that Captain Meyer was the first to try it. </p><p>But the conversations, the bravado, and the smiles, all began to fade quickly as the expected 2.6 second transmission time passed without a response from the Captain. </p><p>“Captain, please respond, are you alright?” Thomas was always good at keeping the strain out of his voice when he was stressed. Perhaps that’s how he got the job as capcom. </p><p>Ashton turned to one of the controllers who was monitoring telemetry. “She could be hurt, bring up the camera feed of the cockpit.” </p><p>Another 2.6 seconds passed in an absence of sound somehow even more crushing than the moment following the jump. </p><p>“We’re getting the video feed now sir.” A window popped up on the main screen of the command center. The video showed the cockpit of Captain Meyer’s vessel in perfect working order, with one exception; The captain herself was missing.</p><p>“Will <em>somebody</em> please tell me where the hell Captain Meyer went?”</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;A heavy silence fell over the mission control center for approximately 1.3 seconds between the time Captain Meyer’s transponder signal di
+      
+    
+    </summary>
+    
+      <category term="Look Before You Leap" scheme="https://JonHolt.github.io/categories/Look-Before-You-Leap/"/>
+    
+    
+      <category term="sci-fi" scheme="https://JonHolt.github.io/tags/sci-fi/"/>
+    
+      <category term="space travel" scheme="https://JonHolt.github.io/tags/space-travel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Look Before You Leap</title>
+    <link href="https://JonHolt.github.io/2018/05/22/Look%20Before%20You%20Leap/"/>
+    <id>https://JonHolt.github.io/2018/05/22/Look Before You Leap/</id>
+    <published>2018-05-22T18:58:30.000Z</published>
+    <updated>2018-05-29T23:29:49.733Z</updated>
+    
+    <content type="html"><![CDATA[<p>Captain Sarah Meyer took a moment to relish the familiar feeling of weightlessness as the thrust cut out at the end of her orbital insertion burn. She smiled down at the brilliant blue Earth below  her.</p><p>“I gotta say Houston,” she began with a hint of mischief in her voice, “this thing flies like a file cabinet.”</p><p>“I’d like to see you fit humanity’s first ever hyperdrive into a file ca-”</p><p>“Would the engineers please leave capsule communication to the capsule communicator?” Thomas was on capcom today. “I’m sorry to hear that sitting in the pilot seat while autopilot took you into orbit was too much strain on your piloting skills Sarah. What’s your status?”</p><p>“Green across the board Houston” Sarah replied, “I’m reading that I’ve reached the target orbit, and the drive status is ready. Can you confirm?”</p><p>“Yes we’re seeing the same readings down here. Remember now, no new variables. We’re just running the same test that ten drones have already done before you. I want the only change here to be the fact that you’re driving. Jump to the programmed coordinates near the moon and report back when you get there, got it?”</p><p>“Understood Houston.” The first human being to ever jump to hyperspace grinned like a child in an ice cream shop as she input her destination into the jump computer and placed her thumb on the button to activate the hyperspace engine. “Jumping in 5, 4, 3, 2, 1.”</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Captain Sarah Meyer took a moment to relish the familiar feeling of weightlessness as the thrust cut out at the end of her orbital insert
+      
+    
+    </summary>
+    
+      <category term="Look Before You Leap" scheme="https://JonHolt.github.io/categories/Look-Before-You-Leap/"/>
+    
+    
+      <category term="sci-fi" scheme="https://JonHolt.github.io/tags/sci-fi/"/>
+    
+      <category term="space travel" scheme="https://JonHolt.github.io/tags/space-travel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Introduction</title>
+    <link href="https://JonHolt.github.io/2018/05/14/Introduction/"/>
+    <id>https://JonHolt.github.io/2018/05/14/Introduction/</id>
+    <published>2018-05-15T02:40:07.000Z</published>
+    <updated>2018-05-22T17:31:11.970Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to my blog! My name is Jonathan. The purpose of this blog is for me to get some practice with creative writing, and for you to (hopefully) get some entertainment out of it. Please read the rest of this post to get the backround on why this blog exists, and how it will operate. Or if that sounds boring to you I’ve provided this handy tl;dr.</p><h3 id="TL-DR"><a href="#TL-DR" class="headerlink" title="TL;DR"></a>TL;DR</h3><ul><li>Read the latest post of the blog, which will be on the home page.</li><li>Vote in the comments on what should happen next.</li><li>Repeat one week later.</li><li>Sometimes there will be a bonus story that my brother made me write.</li><li>Stories will be organized by category.</li></ul><a id="more"></a><p>Before starting this blog, my brother and I decided to practice our creative writing by having weekly “story challenges” where we find a writing prompt online and write stories for them over the course of a week. At the end of the week we’re supposed to share our stories with each other and pick a new prompt. We started about a year ago, we’ve done somewhere around… four challenges, and I’ve shown my brother only one of my stories (all my fault).</p><p>This year of failure has taught me some things about myself though: </p><ul><li>I’m great at outlining story ideas from start to finish.</li><li>I’m less great at actually writing and filling in the details of the story.</li><li>I’m real bad at sharing what I do write. (The AI that scans all Google Drive documents for ad ideas is my #1 fan). </li></ul><p>So the idea of this blog is to remove the things I’m good at with creative writing (pretty much just planning), in order to focus on improving my weaknesses.</p><h3 id="Format"><a href="#Format" class="headerlink" title="Format"></a>Format</h3><p>Once a week, on Tuesdays, I will post a segment of a story to this blog. Over the course of the next few days, until Friday, you will have the chance to read the new post, comment what you think should happen next, and vote on other reader’s comments with which you agree. On Friday evening I will accept the comment with the most votes as the prompt for the next segment of the story. If there is a tie for top suggestion I will break the tie by picking my favorite.</p><p>When you feel like your suggestion should be the end of the story, say so in your comment. If a ending suggestion is accepted the story will end with the accompanying post.</p><p>I still intend to keep doing the occasional story challenge with my brother. To keep me honest, I will be posting those stories here under the “Story Challenge” category of this blog.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to my blog! My name is Jonathan. The purpose of this blog is for me to get some practice with creative writing, and for you to (hopefully) get some entertainment out of it. Please read the rest of this post to get the backround on why this blog exists, and how it will operate. Or if that sounds boring to you I’ve provided this handy tl;dr.&lt;/p&gt;
+&lt;h3 id=&quot;TL-DR&quot;&gt;&lt;a href=&quot;#TL-DR&quot; class=&quot;headerlink&quot; title=&quot;TL;DR&quot;&gt;&lt;/a&gt;TL;DR&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Read the latest post of the blog, which will be on the home page.&lt;/li&gt;
+&lt;li&gt;Vote in the comments on what should happen next.&lt;/li&gt;
+&lt;li&gt;Repeat one week later.&lt;/li&gt;
+&lt;li&gt;Sometimes there will be a bonus story that my brother made me write.&lt;/li&gt;
+&lt;li&gt;Stories will be organized by category.&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="Beginning" scheme="https://JonHolt.github.io/categories/Beginning/"/>
+    
+    
+  </entry>
+  
+</feed>
